@@ -28,6 +28,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     /* margin-bottom: 50px; */
+    padding: 50px;
 
 }
 nav ul{
@@ -35,6 +36,8 @@ nav ul{
     list-style: none; 
      color:#474747;
      align-items: center;
+     gap:50px;
+     margin-bottom: 150px;
      
 }
 .btn-primary {
@@ -45,6 +48,7 @@ nav ul{
     font-size: 20px;
     border: none;
     border-radius: 5px;
+    margin-top: 30px;
 }
 
 .text-center {
