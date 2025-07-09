@@ -31,6 +31,7 @@ nav ul{
     display: flex;
     list-style: none; 
      color:#474747;
+     align-items: center;
      
 }
 .btn-primary {
