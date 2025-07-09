@@ -55,6 +55,13 @@ nav ul{
 .na{
     margin-bottom: 50px;
 }
+        header{
+    background-image: url(/developer.png);
+    /* background-image: url(/header_bg.png); */
+    background-repeat: no-repeat ;
+    background-position: left top;
+    background-color: #FFF8F3;
+}
 .header-des{
     width: 46%;
     border: 2px solid  #FD6E0A ;
