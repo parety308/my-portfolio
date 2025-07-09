@@ -54,7 +54,7 @@ nav ul{
 }
 header{
     background-image: url(/developer.png);
-    /* ,url(/header_bg.png); */
+    background-image: url(/header_bg.png);
     background-repeat: no-repeat ;
     background-position: left top,right bottom;
     background-color: #FFF8F3;
